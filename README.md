@@ -7,7 +7,6 @@
 
 - 💬 Ask me about **HTML,CSS,JavaScript,React**
 
-- 📫 How to reach me **kosarishivakrishna10@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11eCVTWwZ7pFxIctWQzDJAQ2W-kjLPj8V/view?usp=share_link](https://drive.google.com/file/d/11eCVTWwZ7pFxIctWQzDJAQ2W-kjLPj8V/view?usp=share_link)
 
