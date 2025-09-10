@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivakrishna Kosari</h1>
-<h3 align="center">Frontend Developer | React | Vue | Next.js</h3>
+<h3 align="center">Web Developer | React | Vue | Node.js</h3>
 
 - 🔭 Currently working as a **Senior Frontend Developer at Revent AI**  
 - 🌱 Expanding my expertise in **Next.js, TypeScript, and scalable frontend architectures**  
