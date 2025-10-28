@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivakrishna Kosari</h1>
 <h3 align="center">Full Stack Developer | React.js | Vue.js | Next.js | Node.js | Express.js</h3>
 
-- 🌱 Exploring advanced concepts in **TypeScript, Next.js, and scalable frontend architectures**  
+- 🌱 Exploring advanced concepts in **TypeScript, Next.js, Express.js and scalable frontend architectures**  
 - 👨‍💻 Check out my portfolio: [shivakrishnak13.github.io](https://shivakrishnak13.github.io)  
 - 💡 Passionate about solving **UI challenges**, improving performance, and building **SEO-friendly web applications**  
 - 📄 Know more about my experience: [Resume](https://drive.google.com/file/d/1s0B8lAYKlVkfFbO-3r6mOl11uSVEBBWD/view)  
