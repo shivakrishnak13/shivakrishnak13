@@ -32,7 +32,7 @@
 
 <h3 align="left">💼 Experience:</h3>
 <p>
-  <strong>Full Stack Developer — Revent AI (Oct 2023 – Sep 2025)</strong>  
+  <strong>Full Stack Developer — Revent Solutions Pvt. Ltd. (Revent AI) (Oct 2023 – Sep 2025)</strong>  
   <br/>
   • Enhanced dashboard performance and restructured frontend architecture using React.js, TypeScript, Redux Toolkit, and MUI.  
   <br/>
