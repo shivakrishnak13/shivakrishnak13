@@ -4,7 +4,7 @@
 - 🌱 Exploring advanced concepts in **TypeScript, Next.js, scalable system design, and full-stack architectures**  
 - 👨‍💻 Check out my portfolio: [shivakrishnak13.github.io](https://shivakrishnak13.github.io)  
 - 💡 Passionate about building **end-to-end web applications** — from responsive UIs to robust APIs, payment integrations, and scalable backends  
-- 📄 Know more about my experience: [Resume](https://drive.google.com/file/d/1s0B8lAYKlVkfFbO-3r6mOl11uSVEBBWD/view)  
+- 📄 Know more about my experience: [Resume](https://drive.google.com/file/d/1wjE6SC90-ur1QzGU4vRs4yHZN4eKzWs8/view)  
 
 ---
 
