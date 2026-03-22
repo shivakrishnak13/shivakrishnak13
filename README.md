@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shivakrishna Kosari</h1>
-<h3 align="center">Full Stack Developer | React.js | Vue.js | Next.js | Node.js | Express.js</h3>
+<h3 align="center">Full Stack Engineer | React.js | Vue.js | Next.js | Node.js | Express.js | MongoDB | TypeScript</h3>
 
-- 🌱 Exploring advanced concepts in **TypeScript, Next.js, Express.js and scalable frontend architectures**  
+- 🌱 Exploring advanced concepts in **TypeScript, Next.js, scalable system design, and full-stack architectures**  
 - 👨‍💻 Check out my portfolio: [shivakrishnak13.github.io](https://shivakrishnak13.github.io)  
-- 💡 Passionate about solving **UI challenges**, improving performance, and building **SEO-friendly web applications**  
+- 💡 Passionate about building **end-to-end web applications** — from responsive UIs to robust APIs, payment integrations, and scalable backends  
 - 📄 Know more about my experience: [Resume](https://drive.google.com/file/d/1s0B8lAYKlVkfFbO-3r6mOl11uSVEBBWD/view)  
 
 ---
@@ -32,6 +32,19 @@
 
 <h3 align="left">💼 Experience:</h3>
 <p>
+  <strong>Full Stack Engineer — Byldd (Dec 2025 – Mar 2026)</strong>  
+  <br/>
+  • Built full-stack SaaS features using Next.js, React, TypeScript, Express.js, and MongoDB.  
+  <br/>
+  • Designed and implemented a subscription management system supporting recurring and lifetime plans.  
+  <br/>
+  • Integrated Stripe and Shopify APIs with webhook-based architecture for real-time billing and subscription events.  
+  <br/>
+  • Implemented cron jobs for scheduled processing of trending market insights and background tasks.  
+  <br/>
+  • Used TanStack Query for efficient data fetching, caching, and state synchronization.  
+</p>
+<p>
   <strong>Full Stack Developer — Revent Solutions Pvt. Ltd. (Revent AI) (Oct 2023 – Sep 2025)</strong>  
   <br/>
   • Enhanced dashboard performance and restructured frontend architecture using React.js, TypeScript, Redux Toolkit, and MUI.  
@@ -59,6 +72,9 @@
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/></a>
+<a href="https://tanstack.com/query" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" alt="tanstack query" width="40" height="40"/></a>
+<a href="https://zod.dev/" target="_blank" rel="noreferrer"><img src="https://zod.dev/logo.svg" alt="zod" width="40" height="40"/></a>
+<a href="https://stripe.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="stripe" width="40" height="40"/></a>
 <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a>
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="mui" width="40" height="40"/></a>
